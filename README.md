@@ -34,4 +34,4 @@ Pro správné fungování scriptu potřebujete:
     close = true,
 },
 
-![https://media.discordapp.net/attachments/1399047055829372992/1437056362210267136/Snimek_obrazovky_2025-11-09_130959.png?ex=6911da87&is=69108907&hm=faca15882a68a8dc74527907d2f7ef306351ef3b8d8982fd463ec76003913ef3&=&format=webp&quality=lossless](https://media.discordapp.net/attachments/1399047055829372992/1437056362210267136/Snimek_obrazovky_2025-11-09_130959.png?ex=6911da87&is=69108907&hm=faca15882a68a8dc74527907d2f7ef306351ef3b8d8982fd463ec76003913ef3&=&format=webp&quality=lossless)
+![https://i.imgur.com/oWhaZb6.png](https://i.imgur.com/oWhaZb6.png)
