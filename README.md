@@ -33,3 +33,5 @@ Pro správné fungování scriptu potřebujete:
     stack = true,
     close = true,
 },
+
+![Náhled](https://i.imgur.com/oWhaZb6.png)
