@@ -33,5 +33,3 @@ Pro správné fungování scriptu potřebujete:
     stack = true,
     close = true,
 },
-
-![https://i.imgur.com/oWhaZb6.png](https://i.imgur.com/oWhaZb6.png)
